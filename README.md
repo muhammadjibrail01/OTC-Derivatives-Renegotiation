@@ -146,6 +146,10 @@ This requires DTCC SDR counterparty-level event data (AMND, NOVA, TERM event cod
 
 ---
 
+## Author Contributions
+
+This project was a collaboration. Professor Robert Meister contributed to the theoretical framework and provided conceptual guidance on the incomplete contracts and legal entitlements literature. Muhammad Jibrail designed the empirical strategy, built the data processing pipeline, generated the figures, and drafted the manuscript. Both authors contributed to the final interpretation of the results and the policy recommendations.
+
 ## Citation
 
 If you use the code or data in this repository, please cite:
@@ -154,6 +158,7 @@ If you use the code or data in this repository, please cite:
 @techreport{renegotiation_rights_2026,
   title   = {The Value and Cost of Renegotiation Rights in
              Over-the-Counter Derivative Contracts},
+  author  = {Meister, Robert and Jibrail, Muhammad},
   year    = {2026},
   month   = {October},
   type    = {Working Paper}
@@ -170,4 +175,4 @@ The code in this repository is released under the MIT License. The paper text is
 
 ## Contact
 
-For questions about the code or data, please open an issue in this repository.
+For questions about the code or data, please contact Muhammad Jibrail or Professor Robert Meister, or open an issue in this repository.
